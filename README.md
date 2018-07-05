@@ -1,2 +1,2 @@
 # bachelor-thesis
-bachelor thesis done @unifr during 2017
+bachelor thesis done @unifr during autumn 2016
